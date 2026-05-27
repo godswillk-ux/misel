@@ -67,7 +67,7 @@ export const Footer = () => {
 
         <div className="border-t border-charcoal/5 dark:border-bone/5 mt-24 pt-12 flex flex-col md:flex-row justify-between items-center gap-8">
           <p className="text-[10px] font-black tracking-[0.5em] uppercase text-charcoal/30 dark:text-bone/30">
-            © {new Date().getFullYear()} MISEL Studio. Crafted with Intention.
+            © {new Date().getFullYear()} MISEL Studio. Made by Glitch.
           </p>
           <div className="flex gap-8">
             <div className="h-4 w-4 rounded-full border border-charcoal/10 dark:border-bone/10" />
